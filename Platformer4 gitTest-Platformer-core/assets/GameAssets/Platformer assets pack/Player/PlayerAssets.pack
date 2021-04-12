@@ -1,0 +1,47 @@
+
+PlayerAssets.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Player_walk
+  rotate: false
+  xy: 1, 38
+  size: 17, 354
+  orig: 17, 354
+  offset: 0, 0
+  index: -1
+Player_run
+  rotate: false
+  xy: 20, 72
+  size: 30, 320
+  orig: 30, 320
+  offset: 0, 0
+  index: -1
+Player_Idle
+  rotate: false
+  xy: 52, 232
+  size: 32, 160
+  orig: 32, 160
+  offset: 0, 0
+  index: -1
+Player_climb
+  rotate: false
+  xy: 52, 150
+  size: 32, 80
+  orig: 32, 80
+  offset: 0, 0
+  index: -1
+Player_jump
+  rotate: false
+  xy: 86, 352
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+Player_NoAnimation
+  rotate: false
+  xy: 1, 1
+  size: 11, 35
+  orig: 11, 35
+  offset: 0, 0
+  index: -1

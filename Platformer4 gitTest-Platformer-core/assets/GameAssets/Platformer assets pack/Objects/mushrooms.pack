@@ -1,0 +1,19 @@
+
+mushrooms.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mushroom
+  rotate: false
+  xy: 1, 1
+  size: 77, 340
+  orig: 77, 340
+  offset: 0, 0
+  index: -1
+sprites
+  rotate: false
+  xy: 80, 261
+  size: 128, 80
+  orig: 128, 80
+  offset: 0, 0
+  index: -1
